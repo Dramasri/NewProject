@@ -8,6 +8,12 @@ public class NewOne {
 		
 		System.out.println("hello");
 		
+		System.out.println("selenium");
+		
+		System.out.println("java");
+		
+		
+		
 	}
 
 }
