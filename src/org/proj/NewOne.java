@@ -8,6 +8,10 @@ public class NewOne {
 		
 		System.out.println("hello");
 		
+		System.out.println("hello geetha how are you");
+		
+		System.out.println("I am doing selenium");
+		
 	}
 
 }
